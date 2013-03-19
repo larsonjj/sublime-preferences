@@ -24,12 +24,12 @@
 	"indent_subsequent_lines": true,
 	"rulers":
 	[
-		120
+
 	],
 	"scroll_speed": 1.5,
 	"spell_check": false,
 	"theme": "Soda Light.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "true",
+	"word_wrap": "auto",
 	"wrap_width": 120
 }
