@@ -1,8 +1,8 @@
 {
-	"auto_complete_commit_on_tab": true,
+	"auto_complete_commit_on_tab": false,
 	"auto_complete_delay": 20,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Espresso Custom.tmTheme",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
 	"drag_text": false,
 	"draw_indent_guides": true,
 	"draw_white_space": "all",
@@ -24,11 +24,10 @@
 	"indent_subsequent_lines": true,
 	"rulers":
 	[
-
 	],
 	"scroll_speed": 1.5,
 	"spell_check": false,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Soda Dark.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "auto",
 	"wrap_width": 120
