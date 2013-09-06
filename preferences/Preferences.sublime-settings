@@ -22,13 +22,10 @@
 		"Vintage"
 	],
 	"indent_subsequent_lines": true,
-	"rulers":
-	[
-	],
 	"scroll_speed": 1.5,
 	"spell_check": false,
-	"theme": "Soda Dark.sublime-theme",
+	"theme": "Centurion.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": "auto",
-	"wrap_width": 120
+	"scroll_past_end": true
 }
